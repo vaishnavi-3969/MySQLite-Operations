@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SQLite Operation</string>
+    <string name="student_name">Student Name</string>
+    <string name="student_id">Student ID</string>
+    <string name="back">Back</string>
+    <string name="delete">delete</string>
+    <string name="student_list_here">Student List Here</string>
+    <string name="load_data">Load Data</string>
+    <string name="student__id">Student ID</string>
+    <string name="student__name">Student Name</string>
+    <string name="search">Search</string>
+    <string name="search_view">Search</string>
+</resources>
